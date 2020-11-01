@@ -320,6 +320,9 @@ img {
 }
 
 /* Portfolio.html*/
+.site-nav a.current:visited {
+  color: var(--accent-cl);
+}
 
 .products {
   width: 370px;
