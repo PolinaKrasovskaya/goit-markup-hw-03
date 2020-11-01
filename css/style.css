@@ -89,7 +89,7 @@ img {
 
 /*Navigation*/
 .navigation {
-  border: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
 }
 
 .site-nav {
@@ -384,6 +384,13 @@ img {
 
 .button-menu-list:not(:first-child) {
   margin-left: 8px;
+}
+
+.list-direction-port {
+  display: flex;
+  width: auto;
+  justify-content: center;
+  margin-bottom: 50px;
 }
 
 .list-products {
